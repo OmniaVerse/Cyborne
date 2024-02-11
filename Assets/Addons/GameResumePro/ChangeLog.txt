@@ -1,0 +1,22 @@
+Game Resume Pro addon for MFPS
+Version 1.1.3
+
+Change Logs:
+
+1.1.3
+Fix: Error in some game modes when show the game resume that prevent to return to the lobby automatically.
+Tweak: Scoreboard UI.
+
+1.1.2
+Change: Add compatibility with MFPS 1.9.2 changes.
+
+1.1.1
+Fix: Team Name text in scoreboards doesn't get updated with the real team name.
+
+1.1.0
+Compatibility with MFPS 1.9
+Improve: Use TextMeshPro instead of UGUI
+Fix: MissingReference exception when click an unlock button.
+
+Version 1.0
+Initial Release

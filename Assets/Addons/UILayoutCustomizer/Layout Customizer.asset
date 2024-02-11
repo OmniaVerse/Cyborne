@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a776487618c5eca41bfe2a54260297f7, type: 3}
+  m_Name: Layout Customizer
+  m_EditorClassIdentifier: 
+  Name: Layout Customizer
+  Version: 1.0
+  MinMFPSVersion: 1.9
+  Instructions: "<b>UI Layout Customizer</b> allows manipulating your game HUD elements
+    in runtime, integrate this and give your players the freedom to change the position,
+    size, and opacity of your game UI elements, a must-have system for mobile games
+    with a lot of control buttons where players most likely would want to position
+    the buttons as they feel comfortable.\n\n<b>MFPS Integration:</b>\n\n\u2589 Open
+    a scene map <i>(you have to do this for each map scene)</i>\n\n\u2589 With the
+    scene opened, go to the Unity top menu under: MFPS -> Addons -> Layout Customizer
+    -> Integrate.\n\n\u2589 Done!\n\n<b>In-game usage:</b>\n\nIn order to open the
+    layout customizer menu in game, <b>open the pause menu -> Settings -> Controls
+    -> Custom Layout -> Click on the Customize button.</b>"
+  TutorialScript: LayoutCustomizerDocumentation
